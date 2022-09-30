@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/karthikraju391" target="blank"><img src="https://img.shields.io/twitter/follow/karthikraju391?logo=twitter&style=for-the-badge" alt="karthikraju391" /></a> </p>
 
-- 🔭 I’m currently working on [A react ecommerce website](https://github.com/KarthikRaju391/react-ecommerce)
+- 🔭 I’m currently working on [A react blog website](https://github.com/KarthikRaju391/react-app-blogs/tree/main)
 
 - 🌱 I’m currently learning **react, nodejs**
 
