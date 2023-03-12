@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **React frontend projects**
 
-- 👨‍💻 All of my projects are available at [karthikraju.netlify.app](karthikraju.netlify.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://karthikraju.netlify.app)
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@karthikraju)
 
