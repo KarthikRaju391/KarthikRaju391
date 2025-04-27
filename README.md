@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karthik</h1>
-<h3 align="center">Frontend developer from India</h3>
+<h3 align="center">Fulstack Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/karthikraju391" target="blank"><img src="https://img.shields.io/twitter/follow/karthikraju391?logo=twitter&style=for-the-badge" alt="karthikraju391" /></a> </p>
 
-- 🔭 I’m currently working on [A Next.js project](https://github.com/KarthikRaju391/innovators-hub)
+- 🔭 I’m currently working at [MotorInc](https://motorinc.com)
 
-- 👯 I’m looking to collaborate on **React frontend projects**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://karthikraju.netlify.app)
-
-- 💬 Ask me about **HTML, CSS, Javascript, React**
+- 💬 Ask me about **HTML, CSS, TypeScript, React, Golang, Python**
 
 - 📫 How to reach me **karthikraju391@gmail.com**
 
