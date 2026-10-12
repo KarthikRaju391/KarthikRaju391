@@ -16,6 +16,5 @@ I care about systems that reduce friction without hiding how they work. Outside 
 ## Writing
 
 - [Substack](https://substack.com/@karthikraju)
-- [Personal site](https://karthikraju.zo.space/)
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/karthikraju391/).
+Reach me on [X/Twitter](https://www.x.com/karthikraju391/).
